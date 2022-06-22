@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67a85178-db2b-4cd3-a1a0-a0db64fb88ec" name="Changes" comment="" />
+    <list default="true" id="67a85178-db2b-4cd3-a1a0-a0db64fb88ec" name="Changes" comment="file structure update 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractLock.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractLock.ms14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractLock.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractLock.ms14 (Security copy)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Brain.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Brain.ms14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Brain.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Brain.ms14 (Security copy)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Charger.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Charger.ms14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Charger.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Charger.ms14 (Security copy)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Comparator_16.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Comparator_16.ms14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Comparator_16.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Comparator_16.ms14 (Security copy)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Comparator_8.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Comparator_8.ms14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Comparator_8.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Comparator_8.ms14 (Security copy)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CountedBrain.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/CountedBrain.ms14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CountedBrain.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/CountedBrain.ms14 (Security copy)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Counter_4.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Counter_4.ms14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Counter_4.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Counter_4.ms14 (Security copy)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Counter_Pulse_4.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Counter_Pulse_4.ms14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Counter_Pulse_4.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Counter_Pulse_4.ms14 (Security copy)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Distributer.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Distributer.ms14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Distributer.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Distributer.ms14 (Security copy)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Encoder.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Encoder.ms14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Encoder.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Encoder.ms14 (Security copy)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Flag.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Flag.ms14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Flag.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Flag.ms14 (Security copy)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inputer.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inputer.ms14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inputer.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inputer.ms14 (Security copy)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Memory.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Memory.ms14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Memory.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Memory.ms14 (Security copy)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Not.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Not.ms14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Not.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Not.ms14 (Security copy)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Or_10.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Or_10.ms14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Or_10.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Or_10.ms14 (Security copy)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pulse.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pulse.ms14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pulse.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pulse.ms14 (Security copy)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Register_4.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Register_4.ms14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Register_4.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Register_4.ms14 (Security copy)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trap.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trap.ms14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trap.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trap.ms14 (Security copy)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Lock_test.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/test/Lock_test.ms14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Lock_test.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/test/Lock_test.ms14 (Security copy)" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +49,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Ansi8hmCJQ6onU6F5iXAmU6sFe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -32,7 +75,24 @@
       <option name="presentableId" value="Default" />
       <updated>1655656808271</updated>
       <workItem from="1655656809895" duration="82000" />
+      <workItem from="1655657617787" duration="158000" />
+      <workItem from="1655824963607" duration="27000" />
     </task>
+    <task id="LOCAL-00001" summary="file structure update">
+      <created>1655657637117</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655657637117</updated>
+    </task>
+    <task id="LOCAL-00002" summary="file structure update 2">
+      <created>1655657769549</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655657769549</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -48,5 +108,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="file structure update" />
+    <MESSAGE value="file structure update 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="file structure update 2" />
   </component>
 </project>
