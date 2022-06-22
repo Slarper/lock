@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67a85178-db2b-4cd3-a1a0-a0db64fb88ec" name="Changes" comment="Optimize for Charger">
+    <list default="true" id="67a85178-db2b-4cd3-a1a0-a0db64fb88ec" name="Changes" comment="Now will not output an &quot;InCorrect&quot; after &quot;Reseting&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AbstractLock.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractLock.ms14" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AbstractLock.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractLock.ms14 (Security copy)" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inputer.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inputer.ms14 (Security copy)" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pulse.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pulse.ms14" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pulse.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pulse.ms14 (Security copy)" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pulsing_12.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pulsing_12.ms14 (Security copy)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CountedBrain.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/CountedBrain.ms14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CountedBrain.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/CountedBrain.ms14 (Security copy)" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/Switch_test.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/test/Switch_test.ms14" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/Switch_test.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/test/Switch_test.ms14 (Security copy)" afterDir="false" />
     </list>
@@ -54,7 +52,7 @@
       <workItem from="1655656809895" duration="82000" />
       <workItem from="1655657617787" duration="158000" />
       <workItem from="1655824963607" duration="27000" />
-      <workItem from="1655869437820" duration="2353000" />
+      <workItem from="1655869437820" duration="3833000" />
     </task>
     <task id="LOCAL-00001" summary="file structure update">
       <created>1655657637117</created>
@@ -98,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655872474915</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Now will not output an &quot;InCorrect&quot; after &quot;Reseting&quot;">
+      <created>1655872898603</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1655872898603</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +127,7 @@
     <MESSAGE value="add &quot;InCorrect&quot; Probe" />
     <MESSAGE value="Optimized for response time" />
     <MESSAGE value="Optimize for Charger" />
-    <option name="LAST_COMMIT_MESSAGE" value="Optimize for Charger" />
+    <MESSAGE value="Now will not output an &quot;InCorrect&quot; after &quot;Reseting&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Now will not output an &quot;InCorrect&quot; after &quot;Reseting&quot;" />
   </component>
 </project>
