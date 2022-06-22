@@ -4,49 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67a85178-db2b-4cd3-a1a0-a0db64fb88ec" name="Changes" comment="add &quot;InCorrect&quot; Probe">
+    <list default="true" id="67a85178-db2b-4cd3-a1a0-a0db64fb88ec" name="Changes" comment="Optimize for Charger">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AbstractLock.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractLock.ms14" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AbstractLock.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractLock.ms14 (Security copy)" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Brain.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Brain.ms14" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Brain.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Brain.ms14 (Security copy)" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Charger.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Charger.ms14" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Charger.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Charger.ms14 (Security copy)" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Comparator_16.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Comparator_16.ms14" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Comparator_16.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Comparator_16.ms14 (Security copy)" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Comparator_8.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Comparator_8.ms14" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Comparator_8.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Comparator_8.ms14 (Security copy)" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CountedBrain.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/CountedBrain.ms14" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CountedBrain.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/CountedBrain.ms14 (Security copy)" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Counter_4.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Counter_4.ms14" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Counter_4.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Counter_4.ms14 (Security copy)" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Counter_Pulse_4.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Counter_Pulse_4.ms14" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Counter_Pulse_4.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Counter_Pulse_4.ms14 (Security copy)" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Distributer.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Distributer.ms14" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Distributer.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Distributer.ms14 (Security copy)" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Encoder.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Encoder.ms14" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Encoder.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Encoder.ms14 (Security copy)" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Flag.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Flag.ms14" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Flag.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Flag.ms14 (Security copy)" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inputer.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inputer.ms14" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Inputer.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inputer.ms14 (Security copy)" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Memory.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Memory.ms14" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Memory.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Memory.ms14 (Security copy)" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Not.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Not.ms14" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Not.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Not.ms14 (Security copy)" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Or_10.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Or_10.ms14" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Or_10.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Or_10.ms14 (Security copy)" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Pulse.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pulse.ms14" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Pulse.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pulse.ms14 (Security copy)" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pulse_10ms.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pulse_10ms.ms14" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pulse_10ms.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pulse_10ms.ms14 (Security copy)" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pulsing.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pulsing.ms14" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pulsing.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pulsing.ms14 (Security copy)" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pulsing_12.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pulsing_12.ms14" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Pulsing_12.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pulsing_12.ms14 (Security copy)" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Register_4.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Register_4.ms14" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Register_4.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Register_4.ms14 (Security copy)" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Trap.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trap.ms14" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Trap.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trap.ms14 (Security copy)" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/Switch_test.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/test/Switch_test.ms14" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/Switch_test.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/test/Switch_test.ms14 (Security copy)" afterDir="false" />
     </list>
@@ -89,7 +54,7 @@
       <workItem from="1655656809895" duration="82000" />
       <workItem from="1655657617787" duration="158000" />
       <workItem from="1655824963607" duration="27000" />
-      <workItem from="1655869437820" duration="1298000" />
+      <workItem from="1655869437820" duration="2353000" />
     </task>
     <task id="LOCAL-00001" summary="file structure update">
       <created>1655657637117</created>
@@ -119,7 +84,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655870370053</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Optimized for response time">
+      <created>1655871048089</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655871048089</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Optimize for Charger">
+      <created>1655872474915</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655872474915</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +120,8 @@
     <MESSAGE value="file structure update 2" />
     <MESSAGE value="replace with PB_NO switch" />
     <MESSAGE value="add &quot;InCorrect&quot; Probe" />
-    <option name="LAST_COMMIT_MESSAGE" value="add &quot;InCorrect&quot; Probe" />
+    <MESSAGE value="Optimized for response time" />
+    <MESSAGE value="Optimize for Charger" />
+    <option name="LAST_COMMIT_MESSAGE" value="Optimize for Charger" />
   </component>
 </project>
