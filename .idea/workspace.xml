@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="67a85178-db2b-4cd3-a1a0-a0db64fb88ec" name="Changes" comment="replace with PB_NO switch">
+    <list default="true" id="67a85178-db2b-4cd3-a1a0-a0db64fb88ec" name="Changes" comment="add &quot;InCorrect&quot; Probe">
       <change beforePath="$PROJECT_DIR$/src/AbstractLock.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractLock.ms14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractLock.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractLock.ms14 (Security copy)" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Brain.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Brain.ms14" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Brain.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Brain.ms14 (Security copy)" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Charger.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Charger.ms14" afterDir="false" />
@@ -33,6 +37,8 @@
       <change beforePath="$PROJECT_DIR$/src/Or_10.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Or_10.ms14 (Security copy)" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Pulse.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pulse.ms14" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Pulse.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pulse.ms14 (Security copy)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pulse_10ms.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pulse_10ms.ms14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pulse_10ms.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pulse_10ms.ms14 (Security copy)" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Pulsing.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pulsing.ms14" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Pulsing.ms14 (Security copy)" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pulsing.ms14 (Security copy)" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Pulsing_12.ms14" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pulsing_12.ms14" afterDir="false" />
@@ -67,6 +73,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -79,7 +89,7 @@
       <workItem from="1655656809895" duration="82000" />
       <workItem from="1655657617787" duration="158000" />
       <workItem from="1655824963607" duration="27000" />
-      <workItem from="1655869437820" duration="661000" />
+      <workItem from="1655869437820" duration="1298000" />
     </task>
     <task id="LOCAL-00001" summary="file structure update">
       <created>1655657637117</created>
@@ -102,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655869503210</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add &quot;InCorrect&quot; Probe">
+      <created>1655870370053</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655870370053</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +140,7 @@
     <MESSAGE value="file structure update" />
     <MESSAGE value="file structure update 2" />
     <MESSAGE value="replace with PB_NO switch" />
-    <option name="LAST_COMMIT_MESSAGE" value="replace with PB_NO switch" />
+    <MESSAGE value="add &quot;InCorrect&quot; Probe" />
+    <option name="LAST_COMMIT_MESSAGE" value="add &quot;InCorrect&quot; Probe" />
   </component>
 </project>
